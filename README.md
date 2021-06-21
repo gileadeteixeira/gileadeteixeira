@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @gileadeteixeira
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning JavaScript
+- 👋 Olá, eu sou @gileadeteixeira
+- 👀 Me interesso por Desenvolvimento WEB e Modile
+- 🌱 Estou estudando JavaScript
