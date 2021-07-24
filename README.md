@@ -5,7 +5,7 @@
 
 ## Tecnologias
 <a href="https://github.com/gileadeteixeira?tab=repositories" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gileadeteixeira&layout=compact&locale=pt-br&hide=java&bg_color=DEG,2C3E50,1572B6&title_color=FFFFFF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gileadeteixeira&layout=compact&locale=pt-br&bg_color=DEG,2C3E50,1572B6&title_color=FFFFFF&text_color=FFFFFF" />
 </a>
 
 <strong>Estou aprofundando:</strong>
