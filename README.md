@@ -1,7 +1,8 @@
 ### ✌️ Bem-vindo!
 ## Meu nome é Gileade,
-- 👀 Me interesso por Desenvolvimento WEB e Mobile.
-- 🧠 Estou treinando meus conhecimentos em criação de sites.
+- 👀 Me interesso por Desenvolvimento WEB;
+- 🧠 Estou treinando meus conhecimentos em criação de sites;
+- 📱 Também quero aprender a criar aplicações mobile.
 
 ## Tecnologias
 <a href="https://github.com/gileadeteixeira?tab=repositories" target="_blank" rel="noopener noreferrer">
@@ -17,10 +18,11 @@
 
 <strong>Pretendo aprender:</strong>
 <img align="center" alt="jquery_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" style="max-width: 100%"/>
-<img align="center" alt="node_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="max-width: 100%"/>
-<img align="center" alt="ts_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%"/>
 <img align="center" alt="bootstrap_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="max-width: 100%"/>
-<img align="center" alt="react_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%"/>
+<img align="center" alt="node_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="max-width: 100%"/>
+<img align="center" alt="react_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%"/>-----
+<img align="center" alt="ts_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%"/>
+<img align="center" alt="angular_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" style="max-width: 100%"/>
 <img align="center" alt="vue_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width: 100%"/>
 
 <strong>Já utlizei (mas não aprofundei):</strong>
