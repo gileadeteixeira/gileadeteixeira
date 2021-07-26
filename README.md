@@ -22,7 +22,7 @@
 <img align="center" alt="node_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="max-width: 100%"/>
 <img align="center" alt="react_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%"/>-----
 <img align="center" alt="ts_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%"/>
-<img align="center" alt="angular_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" style="max-width: 100%"/>
+<img align="center" alt="angular_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width: 100%"/>
 <img align="center" alt="vue_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width: 100%"/>
 
 <strong>Já utlizei (mas não aprofundei):</strong>
