@@ -6,7 +6,7 @@
 
 ## Tecnologias
 <a href="https://github.com/gileadeteixeira?tab=repositories" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gileadeteixeira&layout=compact&locale=pt-br&bg_color=DEG,2C3E50,1572B6&title_color=FFFFFF&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gileadeteixeira&layout=compact&locale=pt-br&bg_color=DEG,131313,2f3640,485460&title_color=FFFFFF&text_color=eeeeee" />
 </a>
 
 <strong>Estou aprofundando:</strong>
@@ -38,9 +38,12 @@
 <a href="https://github.com/adsfsa/pharmaclin">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=adsfsa&repo=pharmaclin&border_color=000000" />
 </a>
+<a href="https://github.com/adsfsa/app-chamada">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adsfsa&repo=app-chamada&border_color=000000" />
+</a>
 <br>
 <a href="https://github.com/gileadeteixeira" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=gileadeteixeira&show_icons=true&bg_color=DEG,2C3E50,1572B6&title_color=FFFFFF&text_color=F0DB4F&icon_color=7F8FA6&locale=pt-br" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gileadeteixeira&show_icons=true&bg_color=DEG,131313,2f3640,485460&title_color=FFFFFF&text_color=33d9b2&icon_color=7F8FA6&locale=pt-br" />
 </a>
 
 ## Sociais
