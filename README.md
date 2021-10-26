@@ -1,7 +1,7 @@
 ### ✌️ Bem-vindo!
 ## Meu nome é Gileade,
 - 👀 Me interesso por Desenvolvimento WEB;
-- 🧠 Estou treinando meus conhecimentos em criação de sites;
+- 🧠 Estou treinando meus conhecimentos em criação de sites e APIs;
 - 📱 Também quero aprender a criar aplicações mobile.
 
 ## Tecnologias
@@ -13,13 +13,13 @@
 <img align="center" alt="html_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%"/>
 <img align="center" alt="css_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%"/>
 <img align="center" alt="js_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%"/>
+<img align="center" alt="node_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="max-width: 100%"/>
 <img align="center" alt="git_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%"/>
 <img align="center" alt="github_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%"/>
 
 <strong>Pretendo aprender:</strong>
 <img align="center" alt="jquery_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" style="max-width: 100%"/>
 <img align="center" alt="bootstrap_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="max-width: 100%"/>
-<img align="center" alt="node_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="max-width: 100%"/>
 <img align="center" alt="react_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%"/> ----- 
 <img align="center" alt="ts_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%"/>
 <img align="center" alt="angular_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" style="max-width: 100%"/>
