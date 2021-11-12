@@ -10,18 +10,19 @@
 </a>
 
 <strong>Estou aprofundando:</strong>
-<img align="center" alt="html_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="max-width: 100%"/>
-<img align="center" alt="css_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="max-width: 100%"/>
 <img align="center" alt="js_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%"/>
+<img align="center" alt="react_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%"/>
 <img align="center" alt="node_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="max-width: 100%"/>
-<img align="center" alt="git_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%"/>
+<img align="center" alt="npm_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="max-width: 100%"/>
+<img align="center" alt="yarn_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" style="max-width: 100%"/>
+<img align="center" alt="firebase_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="max-width: 100%"/>
 <img align="center" alt="github_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%"/>
 
 <strong>Pretendo aprender:</strong>
-<img align="center" alt="jquery_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" style="max-width: 100%"/>
-<img align="center" alt="bootstrap_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="max-width: 100%"/>
-<img align="center" alt="react_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%"/> ----- 
 <img align="center" alt="ts_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%"/>
+<img align="center" alt="react-native_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%"/>
+<img align="center" alt="aws_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="max-width: 100%"/>
+<img align="center" alt="heroku_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" style="max-width: 100%"/> ----- 
 <img align="center" alt="angular_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" style="max-width: 100%"/>
 <img align="center" alt="vue_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width: 100%"/>
 
@@ -30,9 +31,8 @@
 <img align="center" alt="c++_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="max-width: 100%"/>
 <img align="center" alt="java_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%"/>
 <img align="center" alt="mysql_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%"/>
-<img align="center" alt="npm_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="max-width: 100%"/>
-<img align="center" alt="yarn_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" style="max-width: 100%"/>
-<img align="center" alt="firebase_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="max-width: 100%"/>
+<img align="center" alt="mongodb_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" style="max-width: 100%"/>
+<img align="center" alt="azure_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="max-width: 100%"/>
 
 ## Minhas Contribuições
 <a href="https://github.com/adsfsa/pharmaclin">
