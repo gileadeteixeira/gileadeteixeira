@@ -59,6 +59,6 @@
 <a href="https://twitter.com/giltxra" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="twitter_icon" height="50" width="50" src="https://icons-for-free.com/iconfiles/png/512/super+tiny+icons+twitter-1324450786355861298.png" style="max-width: 100%"/>
 </a>
-<a href="https://www.linkedin.com/in/gileade-teixeira-b86935204/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/gileadeteixeira/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="linkedin_icon" height="50" width="50" src="https://icons-for-free.com/iconfiles/png/128/super+tiny+icons+linkedin-1324450747503589428.png" style="max-width: 100%"/>
 </a>
