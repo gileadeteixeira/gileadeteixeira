@@ -1,8 +1,7 @@
 ### ✌️ Bem-vindo!
 ## Meu nome é Gileade,
-- 👀 Me interesso por Desenvolvimento WEB;
-- 🧠 Estou treinando meus conhecimentos em criação de sites e APIs;
-- 📱 Também quero aprender a criar aplicações mobile.
+- 👀 Me interesso por Desenvolvimento WEB e Mobile;
+- 📱 Atualmente trabalho com Desenvolvimento Mobile, utilizando Flutter;
 
 ## Tecnologias
 <a href="https://github.com/gileadeteixeira?tab=repositories" target="_blank" rel="noopener noreferrer">
@@ -10,29 +9,16 @@
 </a>
 
 <strong>Estou aprofundando:</strong>
-<img align="center" alt="js_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%"/>
-<img align="center" alt="react_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%"/>
-<img align="center" alt="node_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" style="max-width: 100%"/>
-<img align="center" alt="npm_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="max-width: 100%"/>
-<img align="center" alt="yarn_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" style="max-width: 100%"/>
-<img align="center" alt="firebase_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="max-width: 100%"/>
-<img align="center" alt="github_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%"/>
 
-<strong>Pretendo aprender:</strong>
-<img align="center" alt="ts_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%"/>
-<img align="center" alt="react-native_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%"/>
-<img align="center" alt="aws_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="max-width: 100%"/>
-<img align="center" alt="heroku_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" style="max-width: 100%"/> ----- 
-<img align="center" alt="angular_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" style="max-width: 100%"/>
-<img align="center" alt="vue_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width: 100%"/>
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white) ![](https://img.shields.io/badge/Fastlane-95A5A6?style=for-the-badge&logo=fastlane&logoColor=white) ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<strong>Já utlizei (mas não aprofundei):</strong>
-<img align="center" alt="c_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" style="max-width: 100%"/>
-<img align="center" alt="c++_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="max-width: 100%"/>
-<img align="center" alt="java_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%"/>
-<img align="center" alt="mysql_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%"/>
-<img align="center" alt="mongodb_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" style="max-width: 100%"/>
-<img align="center" alt="azure_icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="max-width: 100%"/>
+<strong>Tenho experiência:</strong>
+
+![](https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<strong>Já utlizei:</strong>
+
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Minhas Contribuições
 <a href="https://github.com/adsfsa/pharmaclin">
