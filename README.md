@@ -1,6 +1,6 @@
 ### ✌️ Bem-vindo!
 ## Meu nome é Gileade,
-- 👀 Me interesso por Desenvolvimento WEB e Mobile;
+- 👀 Me interesso por Desenvolvimento Mobile e WEB;
 - 📱 Atualmente trabalho com Desenvolvimento Mobile, utilizando Flutter;
 
 ## Tecnologias
