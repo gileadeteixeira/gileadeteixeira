@@ -1,7 +1,6 @@
 ### ✌️ Bem-vindo!
 ## Meu nome é Gileade,
-- 👀 Me interesso por Desenvolvimento Mobile e WEB;
-- 📱 Atualmente trabalho com Desenvolvimento Mobile, utilizando Flutter;
+- 📱 e atualmente trabalho com Desenvolvimento Mobile, utilizando Flutter;
 
 ## Tecnologias
 <a href="https://github.com/gileadeteixeira?tab=repositories" target="_blank" rel="noopener noreferrer">
@@ -42,9 +41,9 @@
 <a href="https://www.facebook.com/gileade.teixeira" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="facebook_icon" height="50" width="50" src="https://icons-for-free.com/iconfiles/png/512/super+tiny+icons+facebook-1324450725288254714.png" style="max-width: 100%"/>
 </a>
-<a href="https://twitter.com/giltxra" target="_blank" rel="noopener noreferrer">
+<!-- <a href="https://twitter.com/giltxra" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="twitter_icon" height="50" width="50" src="https://icons-for-free.com/iconfiles/png/512/super+tiny+icons+twitter-1324450786355861298.png" style="max-width: 100%"/>
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/gileadeteixeira/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="linkedin_icon" height="50" width="50" src="https://icons-for-free.com/iconfiles/png/128/super+tiny+icons+linkedin-1324450747503589428.png" style="max-width: 100%"/>
 </a>
